@@ -4,6 +4,7 @@
 
 (https://github.com/user-attachments/assets/4e4e1fa5-7b5f-4b24-b205-ba6dd8168fa8)
 
+
 ## Problem Statement
 
 This dashboard helps the Pizza Sales understand their customers better. It helps the Sales Report know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the Average Order Values, Total Revenue, Total Pizza Sold, Total oeders and Average Pizza Per Orders, thus since by using this dashboard they have identified this report, they can further work on factors responsible for the Sales.
