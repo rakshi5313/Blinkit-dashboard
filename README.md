@@ -199,7 +199,9 @@ snap 16
 
 -Step 19 : New measure was created to Average Order Values.
 
-Following DAX expression Average Order Values 
+Following DAX expression Average Order Values
+
+
 
 Average Order Values = [TOTAL REVENUE]/[TOTAL ORDERS] Total Revenue, Total Pizza Sold, Total oeders and Average Pizza Per Orders.
 
@@ -208,11 +210,15 @@ Total Pizza Sold
 
 Following DAX expression Total Pizza Sold 
 
+
+
 Total Pizza Sold = SUM( pizza sales[QUALITY])
 
 -Step 21 : New measure was created to Total orders
 
 Following DAX expression Total orders
+
+
 
 TOTAL ORDERS = DISTINTCOUNT(pizza_sales[ORDER_ID])
 
@@ -220,6 +226,8 @@ TOTAL ORDERS = DISTINTCOUNT(pizza_sales[ORDER_ID])
 -Step 22 : New measure was created to Avg Pizzas per order
 
 Following DAX expression Avg Pizzas per order
+
+
 
 Avg Pizzas per order = [TOTAL PIZZAS SOLD]/[TOTAL ORDERS]
 
