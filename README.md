@@ -208,6 +208,7 @@ Average Order Values = [TOTAL REVENUE]/[TOTAL ORDERS] Total Revenue, Total Pizza
 -Step 20 : New measure was created to
 Total Pizza Sold 
 
+
 Following DAX expression Total Pizza Sold 
 
 
@@ -229,23 +230,37 @@ Following DAX expression Avg Pizzas per order
 
 
 
+
 Avg Pizzas per order = [TOTAL PIZZAS SOLD]/[TOTAL ORDERS]
 
 
 
 -Step 23 =  Although, Add New Card Data Visualization drag the Data Average Order Values, Total Pizza Sold, Total orders Average Pizza Per Orders and Total Revenue and format the KPI's.
 
+
 -Step 24 = A bar chart was also added to the report design area Order day/Total orders representing the Daily Trend for Total Orders.
+
+
 
 -Step 25 = Area Chart was added to the report design Total Orders by order month area representing the Month_Name and total_orders.
 
+
+
 -Step 26 = Donut Chart was added to the report design Pizza category/total revenue representing the % of sales by Pizza Categories.
+
+
 
 -Step 27 = Donut Chart was added to the report design Pizza Size/total revenue representing the % of sales by Pizza Size.
 
+
+
 -Step 28 = Funnel Chart was added to the report design Pizza Category/Total Pizza Sold representing the Total Pizza Sold by Pizza Categories
 
+
+
 -Step 29 = Bar Chart was added to the report design Pizza Name/Total Revenue Sold representing the Top 5 Pizzas by Revenue and  Bottom 5 Pizzas by Revenue
+
+
 
 -Step 30 = Bar Chart was added to the report design Pizza Name/  Total_Pizza_Sold representing the Top 5 Pizzas by Total Orders
   and Bottom 5 Pizzas by Total Orders
